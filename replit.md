@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a modern full-stack developer portfolio application built with React and Express. The application showcases a professional portfolio website for "John Developer" featuring sections for about, skills, projects, and contact information. It follows a monorepo structure with a React frontend and Express backend, designed to be scalable and maintainable.
+This is a modern full-stack developer portfolio application built with React and Express. The application showcases a professional portfolio website for "Jasbirsingh Chauhan" featuring sections for about, skills, projects, and contact information. It follows a monorepo structure with a React frontend and Express backend, designed to be scalable and maintainable.
 
 ## System Architecture
 
@@ -100,10 +100,16 @@ This is a modern full-stack developer portfolio application built with React and
 ```
 Changelog:
 - June 29, 2025. Initial setup
+- June 29, 2025. Customized portfolio for Jasbirsingh Chauhan with 12+ years experience
+- June 29, 2025. Added JavaScript to technical skills alongside Python, PHP, MySQL, Linux, AWS
+- June 29, 2025. Updated all personal information, contact details, and professional descriptions
 ```
 
 ## User Preferences
 
 ```
 Preferred communication style: Simple, everyday language.
+Portfolio focus: Showcase expertise in Python, PHP, JavaScript, MySQL, Linux, and AWS
+Target deployment: GitHub Pages
+Experience level: 12+ years in full-stack development
 ```
